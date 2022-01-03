@@ -1,0 +1,11 @@
+The most lucky numbers are [22, 8, 17],[6, 23, 43],[33, 30, 21],[18, 36, 6],[47, 14, 7] and [12, 49, 45] for 2018
+ and the freqs are [7, 5, 4],[5, 5, 5],[6, 6, 4],[6, 6, 6],[6, 5, 5] and [6, 5, 5]
+The most lucky numbers are [1, 4, 3],[36, 30, 44],[23, 44, 48],[26, 35, 31],[45, 38, 1] and [28, 24, 9] for 2019
+ and the freqs are [5, 5, 4],[6, 6, 5],[6, 5, 4],[6, 6, 5],[7, 7, 5] and [6, 6, 5]
+The most lucky numbers are [37, 38, 27],[22, 34, 15],[16, 23, 32],[18, 43, 10],[48, 16, 40] and [11, 20, 4] for 2020
+ and the freqs are [5, 4, 4],[6, 5, 4],[5, 4, 4],[4, 4, 4],[5, 4, 3] and [5, 5, 5]
+The most lucky numbers are [36, 24, 20],[30, 27, 20],[11, 22, 36],[21, 14, 35],[40, 18, 34] and [34, 47, 38] for 2021
+ and the freqs are [6, 5, 4],[7, 5, 5],[8, 7, 5],[5, 5, 4],[6, 4, 4] and [6, 5, 4]
+Index(['event', 'date', '1st', '2nd', '3rd', '4th', '5th', '6th',
+       'bonus number'],
+      dtype='object')
